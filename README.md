@@ -14,6 +14,6 @@ I keep dangling between competitive programming and development.
 - **Current Focus:** Trying some generative AI stuff and revisiting flutter
 
 ### 🌐 Let's Connect  
-- **LinkedIn:** [Your LinkedIn Profile](#) (Add your LinkedIn URL)  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/garv-rajput-96b462234/)
 
 Feel free to connect with me and explore my repositories. Let's build something awesome together! 🚀
