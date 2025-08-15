@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Garv Rajput
 
 ### 🖥️ About Me  
-I am a second-year Computer Science and Engineering (CSE) student at [IIIT Bangalore](https://www.iiitb.ac.in/). 
+I am a third-year Computer Science and Engineering (CSE) student at [IIIT Bangalore](https://www.iiitb.ac.in/). 
 I keep dangling between competitive programming and development. 
 
 ### 🚀 Skills & Interests  
